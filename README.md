@@ -60,7 +60,7 @@ most used social info ヽ(o＾▽＾o)ノ</p>
 <br>
 <br>
 <br>
-<img align="center" src = "" width = "100%" height="350px"> <!--custom gif-->
+<img align="center" src = "/images/gang.gif" width = "100%" height="350px"> <!--custom gif-->
 <br>
 <br>
 <br>
