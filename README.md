@@ -37,10 +37,11 @@
 </p>
 <br>
 <h2 align="center">⌨️ 𝙒𝙤𝙧𝙠 𝙀𝙭𝙥𝙚𝙧𝙞𝙚𝙣𝙘𝙚 🖱️</h2>
+<p>I'm a rookie in Web Development</p>
 <br>
 <br>
 <h2 align="right">📝 𝘾𝙤𝙣𝙩𝙖𝙘𝙩 𝙢𝙚 📝            </h2>
-<img src="" justify-content="center" align="left" width="300px" height="400px"/> <!--contact gif-->
+<img src="/images/john-smoke.gif" justify-content="center" align="right" width="300px" height="400px"/> <!--contact gif-->
 <br>
 <p align="center">Here are some of my  <br>
 most used social info ヽ(o＾▽＾o)ノ</p>
