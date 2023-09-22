@@ -8,7 +8,7 @@
 <img src="" height ="1px" width ="100%"> <!--gif line-->
 <div>
 <h2 align="center"> 💬 𝘼𝙗𝙤𝙪𝙩 𝙢𝙚 🗨️ </h2>
-<img src="" height = "220px" align="right"> <!--custom gif-->
+<img src="./images/john.gif" height = "220px" align="right"> <!--custom gif-->
 <li>
 <b>Full-Name:</b> <h4><b>Nguyen Hoang Khoi</b></h4> </li>
 <li>
