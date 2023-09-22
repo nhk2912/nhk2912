@@ -41,7 +41,7 @@
 <br>
 <br>
 <h2 align="right">📝 𝘾𝙤𝙣𝙩𝙖𝙘𝙩 𝙢𝙚 📝            </h2>
-<img src="/images/john-smoke.gif" justify-content="center" align="right" width="300px" height="400px"/> <!--contact gif-->
+<img src="/images/john-smoke.gif" justify-content="center" align="right" width="400px" height="400px"/> <!--contact gif-->
 <br>
 <p align="center">Here are some of my  <br>
 most used social info ヽ(o＾▽＾o)ノ</p>
