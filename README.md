@@ -24,7 +24,7 @@
 <div>
 <h2 align="left">            📇 𝙆𝙣𝙤𝙬𝙡𝙚𝙙𝙜𝙚/ 𝙆𝙣𝙤𝙬𝙣 𝙖𝙗𝙤𝙪𝙩 📇</h2>
 <p>
-<img src="./images/johnsmile.gif" height="200px" width="100%" align="center"> <!--custom gif-->
+<img src="./images/johnsmile.gif" height="400px" width="100%" align="center"> <!--custom gif-->
 </p>
 </div>
 <div>
