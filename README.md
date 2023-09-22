@@ -37,8 +37,6 @@
 </p>
 <br>
 <h2 align="center">⌨️ 𝙒𝙤𝙧𝙠 𝙀𝙭𝙥𝙚𝙧𝙞𝙚𝙣𝙘𝙚 🖱️</h2>
-<p align="center">
-<img align="center" src=""/> <!--gif background-->
 <br>
 <br>
 <h2 align="right">📝 𝘾𝙤𝙣𝙩𝙖𝙘𝙩 𝙢𝙚 📝            </h2>
